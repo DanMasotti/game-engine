@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>grass.png</file>
+        <file>level_island_channels.png</file>
+        <file>level_island.png</file>
+        <file>ghoul-tex.png</file>
+        <file>player-tex.png</file>
+        <file>level_island_grassy.png</file>
+        <file>level_island_grassy_indexed.png</file>
+        <file>rat_tex.png</file>
+        <file>rust.jpeg</file>
+        <file>rust.png</file>
+        <file>menu_screen.png</file>
+    </qresource>
+</RCC>
